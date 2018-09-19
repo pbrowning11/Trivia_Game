@@ -1,1 +1,3 @@
 # Trivia_Game
+
+This is a javascript/jquery trivia game that focuses on the use of timers. I have created an eight question trivia game using an object, with the questions and the answers in seperate arrays. By unsing Javascript and JQuery, the trivia taker is able to navigate through each question, have their answer recorded as right, wrong, or unanswered (time ran out) and display a score at the end of the game. Also, inbetween each question, there is a page stating whether or not the player answered the question correctly, and showing a GIF representing their choice.
